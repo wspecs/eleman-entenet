@@ -40,3 +40,9 @@ OR
 ```html
 <eleman-entenet></eleman-entenet>
 ```
+
+## Run locally
+
+```bash
+npm run start
+```
